@@ -1,7 +1,7 @@
 # advent-of-code-2021
 Advent of Code 2021 in C++ and PowerShell
 
-[X] Day 1
+- [X] Day 1
 
 [] Day 2
 
