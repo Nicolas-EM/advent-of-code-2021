@@ -1,4 +1,4 @@
-$v = Get-Content -Path 'C:\Users\nespinosa\Downloads\input.txt'
+$v = Get-Content -Path 'Day-2\1-input.txt'
 
 $x = 0
 $y = 0
