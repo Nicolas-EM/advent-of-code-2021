@@ -3,7 +3,7 @@
 #include <vector>
 
 int main() {
-	std::ifstream in("Day-1\\2-input.txt");
+	std::ifstream in("Day-1\\input.txt");
 	auto cinbuf = std::cin.rdbuf(in.rdbuf());
 
 	int n = 0;

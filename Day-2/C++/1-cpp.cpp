@@ -3,7 +3,7 @@
 #include <string>
 
 int main() {
-	std::ifstream in("Day-2\\1-input.txt");
+	std::ifstream in("Day-2\\input.txt");
 	auto cinbuf = std::cin.rdbuf(in.rdbuf());
 
 	int x = 0, y = 0;

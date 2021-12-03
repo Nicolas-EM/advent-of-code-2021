@@ -1,4 +1,4 @@
-$v = Get-Content -Path 'Day-1\2-input.txt'
+$v = Get-Content -Path 'Day-1\input.txt'
 
 $count = [int]$v[0] + [int]$v[1] + [int]$v[2]
 $n = 0

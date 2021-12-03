@@ -2,7 +2,7 @@
 #include <fstream>
 
 int main() {
-	std::ifstream in("Day-1\\1-input.txt");
+	std::ifstream in("Day-1\\input.txt");
 	auto cinbuf = std::cin.rdbuf(in.rdbuf());
 
 	int n = 0, x1;
