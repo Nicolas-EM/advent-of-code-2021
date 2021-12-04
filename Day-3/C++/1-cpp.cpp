@@ -5,7 +5,7 @@
 #include <set>
 
 int main() {
-	std::ifstream in("Day-3\\1-input.txt");
+	std::ifstream in("Day-3\\input.txt");
 	auto cinbuf = std::cin.rdbuf(in.rdbuf());
 
 	std::vector<std::string> v;

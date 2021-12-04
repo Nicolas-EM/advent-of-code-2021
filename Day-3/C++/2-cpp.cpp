@@ -24,7 +24,7 @@ std::string solve(std::vector<std::string> &v, int ini, const bool o2) {
 }
 
 int main() {
-	std::ifstream in("Day-3\\1-input.txt");
+	std::ifstream in("Day-3\\input.txt");
 	auto cinbuf = std::cin.rdbuf(in.rdbuf());
 
 	std::vector<std::string> v;
