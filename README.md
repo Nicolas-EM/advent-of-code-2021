@@ -3,7 +3,7 @@ Advent of Code 2021 in C++ and PowerShell
 
 - [X] Day 1
 - [X] Day 2
-- [ ] Day 3
+- [X] Day 3
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
