@@ -14,7 +14,7 @@ Advent of Code 2021 in C++ and PowerShell
     - [X] C++
     - [ ] Powershell
 - [ ] Day 5
-    - [ ] C++
+    - [X] C++
     - [ ] Powershell
 - [ ] Day 6
     - [X] C++
